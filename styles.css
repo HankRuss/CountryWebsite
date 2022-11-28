@@ -1,0 +1,38 @@
+
+/*
+selector  {
+    property: value
+}
+
+*/
+
+
+
+.nav {
+list-style: none;
+
+border-style: dotted;
+
+padding-left: 0;
+
+width: 50%;
+
+margin: auto;
+
+text-align: center;
+}
+
+.nav>li{
+border-style: ridge;
+border-radius: 10px;
+display: inline-block;
+
+
+}
+img {
+display: inline-block;
+margin: auto;
+width: 20%;
+
+
+}
